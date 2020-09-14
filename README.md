@@ -5,7 +5,7 @@
   <a href="https://reddit.com/u/schulke-214">Reddit</a>
 </p>
 
-<img height="0px src="https://komarev.com/ghpvc/?username=schulke-214" />
+<img height="0px" src="https://komarev.com/ghpvc/?username=schulke-214" />
                                                                       
 I am a software developer and enthousiast, currently living in berlin, germany together with my awesome girlfriend and two (even more awesome) cats. Right now i am working at moccu (a berlin based digital design agency) as frontend developer and studying media computer science at th brandenburg in the spare time.
 
