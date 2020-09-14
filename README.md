@@ -12,6 +12,6 @@ The _black boxes_ of computer science are fascinating me - i like to research an
  
 - 🔭 I’m currently working on [yoga](https://github.com/schulke-214/yogawm) (a rust window manager library)
 - 🌱 I’m currently learning theoretical informatics, mathematics and hardware
-- 💬 Ask me about: Rust, Linux, Web 
+- 💬 Ask me about: rust, linux and web stuff 
 - 📫 How to reach me: [hello@maximilianschulke.com](mailto:hello@maximilianschulke.com)
 - ⚡ Fun fact: I like skateboarding 🛹
