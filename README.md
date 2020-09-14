@@ -15,8 +15,3 @@ The _black boxes_ of computer science are fascinating me - i like to research an
 - 💬 Ask me about: rust, linux and web stuff 
 - 📫 How to reach me: [hello@maximilianschulke.com](mailto:hello@maximilianschulke.com)
 - ⚡ Fun fact: I like skateboarding 🛹
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schulke-214&hide=contribs" alt="GitHub Stats" />
-</p>
