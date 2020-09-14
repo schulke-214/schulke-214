@@ -6,7 +6,7 @@
 </p>
 
 --- 
-🔧 I am a software developer and enthousiast, currently living in berlin, germany together with my awesome girlfriend and two (even more awesome) cats. Right now i am working at moccu (a berlin based digital design agency) as frontend developer and studying media computer science at th brandenburg in the spare time.
+I am a software developer and enthousiast, currently living in berlin, germany together with my awesome girlfriend and two (even more awesome) cats. Right now i am working at moccu (a berlin based digital design agency) as frontend developer and studying media computer science at th brandenburg in the spare time.
 
 The _black boxes_ of computer science are fascinating me - i like to research and hack on things which are a bit more unusual than todo apps (compiler, window manager, emulators..). Everything that has to do with hardware, language design, math & operating systems is just blowing my mind. 
  
