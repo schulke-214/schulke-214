@@ -1,16 +1,17 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Max!</h3>
+<p align="center">
+  <a href="https://blog.maximilianschulke.com">Website</a> •
+  <a href="https://twitter.com/schulke214">Twitter</a> •
+  <a href="https://reddit.com/u/schulke-214">Reddit</a>
+</p>
 
-<!--
-**schulke-214/schulke-214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
+🔧 I am a software developer and enthousiast, currently living in berlin, germany together with my awesome girlfriend and two (even more awesome) cats. Right now i am working at moccu (a berlin based digital design agency) as frontend developer and studying media computer science at th brandenburg in the spare time.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The _black boxes_ of computer science are fascinating me - i like to research and hack on things which are a bit more unusual than todo apps (compiler, window manager, emulators..). Everything that has to do with hardware, language design, math & operating systems is just blowing my mind. 
+ 
+- 🔭 I’m currently working on [yoga](https://github.com/schulke-214/yogawm) (a rust window manager library)
+- 🌱 I’m currently learning theoretical informatics, mathematics and hardware
+- 💬 Ask me about: Rust, Linux, Web 
+- 📫 How to reach me: [hello@maximilianschulke.com](mailto:hello@maximilianschulke.com)
+- ⚡ Fun fact: I like skateboarding 🛹
