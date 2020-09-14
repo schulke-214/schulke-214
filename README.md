@@ -16,4 +16,6 @@ The _black boxes_ of computer science are fascinating me - i like to research an
 - 📫 How to reach me: [hello@maximilianschulke.com](mailto:hello@maximilianschulke.com)
 - ⚡ Fun fact: I like skateboarding 🛹
 
-<img height="0px" src="https://komarev.com/ghpvc/?username=schulke-214" />
+<p height="0px">
+  <img src="https://komarev.com/ghpvc/?username=schulke-214" />
+</p>
