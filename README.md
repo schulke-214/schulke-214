@@ -17,4 +17,6 @@ The _black boxes_ of computer science are fascinating me - i like to research an
 - ⚡ Fun fact: I like skateboarding 🛹
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schulke-214&hide=contribs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schulke-214&hide=contribs" alt="GitHub Stats" />
+</p>
